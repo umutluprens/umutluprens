@@ -27,4 +27,4 @@ Python · SQL · Excel / VBA · Power BI · pandas · scikit-learn · statsmodel
 
 ### Get in touch
 
-Open to connecting — you can reach me on LinkedIn.
+Open to connecting — find me on [LinkedIn](https://www.linkedin.com/in/umutyasar1/).
