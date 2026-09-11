@@ -12,7 +12,7 @@ I'm interested in roles that bring banking together with Python and data (across
 
 ### What I'm working on
 
-- **[financial-data-science](https://github.com/umutluprens/financial-data-science)** — machine-learning methods implemented in Python (regression, classification, resampling, tree-based methods, SVM) on finance datasets such as credit default and market direction. Coursework from my MSc, kept as a readable record of methods I can implement from scratch.
+- **[machine-learning-for-finance](https://github.com/umutluprens/machine-learning-for-finance)** — machine-learning methods implemented in Python (regression, classification, resampling, tree-based methods, SVM) on finance datasets such as credit default and market direction. Coursework from my MSc, kept as a readable record of methods I can implement from scratch.
 
 ### Tools I work with
 
