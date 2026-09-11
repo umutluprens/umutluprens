@@ -1,8 +1,8 @@
 ## Hi, I'm Umut Yaşar
 
-Financial risk analyst with 8+ years in international banking, currently on the Capital & Recovery team at Allied Irish Banks in Dublin. My work covers capital adequacy (ICAAP), risk-weighted-asset oversight, and risk-adjusted return analysis. I hold an MSc in Financial Data Science from University College Dublin.
+Financial risk analyst with 8+ years in international banking, currently on the Capital & Recovery team at AIB Group. My work covers capital adequacy, risk-weighted-asset oversight, and risk-adjusted return on capital analysis. I hold an MSc in Financial Data Science from University College Dublin.
 
-I'm interested in roles that bring banking together with Python and data — across development and impact finance, trade finance, and corporate and risk — and I'm open to opportunities in the Netherlands.
+I'm interested in roles that bring banking together with Python and data (across development and impact finance, trade finance, and corporate and risk) and I'm open to opportunities in the Netherlands.
 
 ### What I'm working on
 
