@@ -13,6 +13,7 @@ I'm interested in roles that bring banking together with Python and data (across
 ### What I'm working on
 
 - **[machine-learning-for-finance](https://github.com/umutluprens/machine-learning-for-finance)** — machine-learning methods implemented in Python (regression, classification, resampling, tree-based methods, SVM) on finance datasets such as credit default and market direction. Coursework from my MSc, kept as a readable record of methods I can implement from scratch.
+- **[financial-theory-julia](https://github.com/umutluprens/financial-theory-julia)** — portfolio and financial theory in Julia: mean-variance optimisation, CAPM, and utility theory (JuMP/Ipopt), from my MSc coursework.
 
 ### Tools I work with
 
