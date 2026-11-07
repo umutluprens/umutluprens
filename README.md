@@ -20,8 +20,8 @@ Machine learning methods in Python (regression, classification, resampling, tree
 **[financial-theory-julia](https://github.com/umutluprens/financial-theory-julia)**<br>
 Portfolio and financial theory in Julia, covering mean-variance optimisation, CAPM and utility theory with JuMP and Ipopt. MSc coursework.
 
-**FotoLiman** (personal project, private)<br>
-A macOS and Windows app I built to back up Google Photos to an external disk, with pause and resume, safe disk eject and backup verification.
+**[FotoLiman](https://github.com/umutluprens/fotoliman)** (personal project)<br>
+A macOS and Windows app I built to back up photos and videos from Google Photos, phones and camera cards to an external disk. It verifies every copy and supports pause and resume. The source code is private, but the [latest version](https://github.com/umutluprens/fotoliman/releases/latest) is public and can be downloaded from the [project site](https://umutluprens.github.io/fotoliman/download/).
 
 ### Experience
 
