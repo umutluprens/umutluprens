@@ -8,8 +8,11 @@ I am looking for roles that bring banking and data together, in development and 
 
 ### Projects
 
-**Bank soundness with CAMELS and machine learning** (MSc group project, code private)<br>
-A model of bank soundness built on CAMELS ratios and BICRA country risk scores, stored in SQLite and combined with news sentiment. I compared logistic regression, decision trees, random forest and XGBoost, and used PCA and clustering to explore the structure of the data. My part was the data collection, the CAMELS feature work and the modelling and evaluation. The code is private because the underlying bank financials come from a licensed data provider.
+**[bank-soundness-analytics](https://github.com/umutluprens/bank-soundness-analytics)**<br>
+Soundness profiling of European banks using CAMELS indicators, adapted from my MSc group project at UCD, which covered 8,033 bank-year observations across 18 countries from 2010 to 2021. It includes a leakage-aware screening model, PCA and K-means segmentation, and a synthetic demo mode, since the original financial data is licensed. In the original project my part was the data collection, the CAMELS feature work and the modelling and evaluation.
+
+**[credit-default-risk-modelling](https://github.com/umutluprens/credit-default-risk-modelling)**<br>
+A probability of default model on the public Give Me Some Credit dataset. It compares logistic regression with gradient boosting and evaluates both discrimination and calibration with ROC-AUC, average precision and the Brier score.
 
 **[machine-learning-for-finance](https://github.com/umutluprens/machine-learning-for-finance)**<br>
 Machine learning methods in Python (regression, classification, resampling, tree-based methods and SVM) applied to finance datasets such as credit default and market direction. MSc coursework, kept as a readable record of methods I can implement myself.
@@ -30,7 +33,7 @@ Credit analysis of international banks for buyer's credit exposure, KYC and AML 
 
 ### Tools
 
-**Programming:** Python (pandas, scikit-learn, statsmodels), SQL, Julia (JuMP), VBA<br>
+**Programming:** Python (pandas, scikit-learn, statsmodels, XGBoost), SQL, Julia (JuMP), VBA<br>
 **Reporting and data:** Excel, Power BI, SQLite<br>
 **Market data:** Bloomberg, Refinitiv Eikon, S&P Capital IQ
 
