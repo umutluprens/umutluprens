@@ -1,6 +1,6 @@
 ## Hi, I'm Umut Yasar
 
-Financial risk analyst with 8+ years in international banking. I work on the Capital & Recovery team at AIB Group, covering capital adequacy, risk-weighted asset oversight and risk-adjusted return analysis. I hold an MSc in Financial Data Science from University College Dublin.
+Financial risk analyst with 10+ years in international banking. I work on the Capital & Recovery team at AIB Group, covering capital adequacy, risk-weighted asset oversight and risk-adjusted return analysis. I hold an MSc in Financial Data Science from University College Dublin.
 
 This is where I keep the analytical side of my work. Most projects apply Python, SQL and Julia to questions I meet in banking, such as how sound a bank is, how credit risk can be predicted and how a portfolio should be built.
 
