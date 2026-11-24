@@ -23,8 +23,8 @@ Portfolio and financial theory in Julia, covering mean-variance optimisation, CA
 **[FotoLiman](https://github.com/umutluprens/fotoliman)** (personal project)<br>
 A macOS and Windows app I built to back up photos and videos from Google Photos, phones and camera cards to an external disk. It verifies every copy and supports pause and resume. The source code is private, but the [latest version](https://github.com/umutluprens/fotoliman/releases/latest) is public and can be downloaded from the [project site](https://umutluprens.github.io/fotoliman/download/).
 
-**[Snug TV](https://github.com/umutluprens/snug-tv)** (personal project, open source)<br>
-An unofficial fork of [CleanYourTV](https://github.com/Gathin23/cleanyourtv), the open-source Android TV home screen made by Gathin and its contributors. Snug TV packages that launcher as one signed APK with its own name, so it can be installed on an Android TV or Google TV without building it first. It adds a few changes, such as sending the TV's own home screen back to the launcher on Google TV, Android TV and Xiaomi PatchWall, and keeping Google Assistant results on screen. I tested it on a Google TV Streamer. The [download page](https://umutluprens.github.io/snug-tv/) and install guide are in Turkish. Along the way, two of my Turkish translation fixes were merged into CleanYourTV itself ([#4362](https://github.com/Gathin23/cleanyourtv/pull/4362), [#4363](https://github.com/Gathin23/cleanyourtv/pull/4363)).
+**[Snug TV](https://github.com/umutluprens/snug-tv)** (personal project)<br>
+An unofficial fork of [CleanYourTV](https://github.com/Gathin23/cleanyourtv), Gathin's open-source Android TV home screen, packaged as one APK that installs without building. Tested on a Google TV Streamer. Two of my Turkish translation fixes were also merged into CleanYourTV.
 
 ### Experience
 
